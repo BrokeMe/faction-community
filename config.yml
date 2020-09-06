@@ -1,0 +1,11 @@
+score:
+  url: "loja.meuservidor.com.br"
+  ranking: false
+  
+spawners:
+  COW: 35000
+  
+mensagens:
+  vip_f_fly: "§cVocê precisa do grupo [Nobre] ou superior para executar este comando."
+  
+geradores_spawners: spawner give player tipo quantia
